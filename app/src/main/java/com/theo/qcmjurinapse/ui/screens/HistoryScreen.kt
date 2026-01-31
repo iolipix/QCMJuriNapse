@@ -1,4 +1,4 @@
-package com.napse.qcmjuridique.ui.screens
+package com.theo.qcmjurinapse.ui.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -16,9 +16,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.napse.qcmjuridique.data.QuizResult
-import com.napse.qcmjuridique.viewmodel.HistoryViewModel
-import com.napse.qcmjuridique.viewmodel.HistoryViewModelFactory
+import com.theo.qcmjurinapse.data.QuizResult
+import com.theo.qcmjurinapse.viewmodel.HistoryViewModel
+import com.theo.qcmjurinapse.viewmodel.HistoryViewModelFactory
 import java.text.SimpleDateFormat
 import java.util.*
 

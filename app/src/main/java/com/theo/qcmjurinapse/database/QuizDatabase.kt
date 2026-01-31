@@ -1,9 +1,9 @@
-package com.napse.qcmjuridique.database
+package com.theo.qcmjurinapse.database
 
 import androidx.room.*
 import androidx.room.migration.Migration
 import androidx.sqlite.db.SupportSQLiteDatabase
-import com.napse.qcmjuridique.data.*
+import com.theo.qcmjurinapse.data.*
 
 /**
  * Base de données Room pour l'application QCM Juridique

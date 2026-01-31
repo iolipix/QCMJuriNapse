@@ -1,4 +1,4 @@
-package com.napse.qcmjuridique.ui.theme
+package com.theo.qcmjurinapse.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,9 +1,9 @@
-package com.napse.qcmjuridique.viewmodel
+package com.theo.qcmjurinapse.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.napse.qcmjuridique.data.QuizResult
-import com.napse.qcmjuridique.repository.QuestionRepository
+import com.theo.qcmjurinapse.data.QuizResult
+import com.theo.qcmjurinapse.repository.QuestionRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

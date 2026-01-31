@@ -1,4 +1,4 @@
-package com.napse.qcmjuridique.ui.screens
+package com.theo.qcmjurinapse.ui.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -14,9 +14,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.napse.qcmjuridique.data.Subject
-import com.napse.qcmjuridique.viewmodel.SubjectViewModel
-import com.napse.qcmjuridique.viewmodel.SubjectViewModelFactory
+import com.theo.qcmjurinapse.data.Subject
+import com.theo.qcmjurinapse.viewmodel.SubjectViewModel
+import com.theo.qcmjurinapse.viewmodel.SubjectViewModelFactory
 
 /**
  * Écran affichant les matières d'un semestre

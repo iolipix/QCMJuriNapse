@@ -1,4 +1,4 @@
-package com.napse.qcmjuridique.ui
+package com.theo.qcmjurinapse.ui
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -20,9 +20,9 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import com.napse.qcmjuridique.data.EtatQuestion
-import com.napse.qcmjuridique.data.EtatQuiz
-import com.napse.qcmjuridique.data.ReponseUtilisateur
+import com.theo.qcmjurinapse.data.EtatQuestion
+import com.theo.qcmjurinapse.data.EtatQuiz
+import com.theo.qcmjurinapse.data.ReponseUtilisateur
 
 /**
  * Contenu principal du quiz avec question et réponses

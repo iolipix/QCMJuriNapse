@@ -1,4 +1,4 @@
-package com.napse.qcmjuridique.ui.components
+package com.theo.qcmjurinapse.ui.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -17,7 +17,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import com.napse.qcmjuridique.data.*
+import com.theo.qcmjurinapse.data.*
 
 @Composable
 fun EcranChargement() {

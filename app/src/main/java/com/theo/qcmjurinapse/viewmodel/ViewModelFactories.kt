@@ -1,8 +1,8 @@
-package com.napse.qcmjuridique.viewmodel
+package com.theo.qcmjurinapse.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.napse.qcmjuridique.repository.QuestionRepository
+import com.theo.qcmjurinapse.repository.QuestionRepository
 
 /**
  * Factory pour créer le HomeViewModel avec ses dépendances

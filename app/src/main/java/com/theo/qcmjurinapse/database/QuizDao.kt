@@ -1,7 +1,7 @@
-package com.napse.qcmjuridique.database
+package com.theo.qcmjurinapse.database
 
 import androidx.room.*
-import com.napse.qcmjuridique.data.*
+import com.theo.qcmjurinapse.data.*
 import kotlinx.coroutines.flow.Flow
 
 /**

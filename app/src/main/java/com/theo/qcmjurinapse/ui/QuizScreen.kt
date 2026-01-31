@@ -1,4 +1,4 @@
-package com.napse.qcmjuridique.ui
+package com.theo.qcmjurinapse.ui
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -13,11 +13,11 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.napse.qcmjuridique.ui.components.*
-import com.napse.qcmjuridique.repository.QuestionRepository
-import com.napse.qcmjuridique.database.QuizDatabase
-import com.napse.qcmjuridique.viewmodel.QuizViewModel
-import com.napse.qcmjuridique.viewmodel.QuizViewModelFactory
+import com.theo.qcmjurinapse.ui.components.*
+import com.theo.qcmjurinapse.repository.QuestionRepository
+import com.theo.qcmjurinapse.database.QuizDatabase
+import com.theo.qcmjurinapse.viewmodel.QuizViewModel
+import com.theo.qcmjurinapse.viewmodel.QuizViewModelFactory
 
 /**
  * Écran principal du quiz QCM avec support des matières

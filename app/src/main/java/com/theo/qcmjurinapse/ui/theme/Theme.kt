@@ -1,4 +1,4 @@
-package com.napse.qcmjuridique.ui.theme
+package com.theo.qcmjurinapse.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

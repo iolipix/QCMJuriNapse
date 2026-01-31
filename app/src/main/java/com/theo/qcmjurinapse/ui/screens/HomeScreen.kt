@@ -1,4 +1,4 @@
-package com.napse.qcmjuridique.ui.screens
+package com.theo.qcmjurinapse.ui.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -16,11 +16,11 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.napse.qcmjuridique.data.Semester
-import com.napse.qcmjuridique.viewmodel.HomeViewModel
-import com.napse.qcmjuridique.viewmodel.HomeViewModelFactory
-import com.napse.qcmjuridique.repository.QuestionRepository
-import com.napse.qcmjuridique.database.QuizDatabase
+import com.theo.qcmjurinapse.data.Semester
+import com.theo.qcmjurinapse.viewmodel.HomeViewModel
+import com.theo.qcmjurinapse.viewmodel.HomeViewModelFactory
+import com.theo.qcmjurinapse.repository.QuestionRepository
+import com.theo.qcmjurinapse.database.QuizDatabase
 
 /**
  * Écran d'accueil affichant les semestres disponibles

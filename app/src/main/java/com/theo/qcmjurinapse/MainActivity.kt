@@ -1,4 +1,4 @@
-package com.napse.qcmjuridique
+package com.theo.qcmjurinapse
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -15,12 +15,12 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.napse.qcmjuridique.database.QuizDatabase
-import com.napse.qcmjuridique.repository.QuestionRepository
-import com.napse.qcmjuridique.ui.QuizScreen
-import com.napse.qcmjuridique.ui.screens.*
-import com.napse.qcmjuridique.ui.theme.QCMJuridiqueNapseTheme
-import com.napse.qcmjuridique.viewmodel.*
+import com.theo.qcmjurinapse.database.QuizDatabase
+import com.theo.qcmjurinapse.repository.QuestionRepository
+import com.theo.qcmjurinapse.ui.QuizScreen
+import com.theo.qcmjurinapse.ui.screens.*
+import com.theo.qcmjurinapse.ui.theme.QCMJuridiqueNapseTheme
+import com.theo.qcmjurinapse.viewmodel.*
 
 /**
  * Activité principale de l'application QCM Juridique Napse

@@ -1,4 +1,4 @@
-package com.napse.qcmjuridique.data
+package com.theo.qcmjurinapse.data
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
