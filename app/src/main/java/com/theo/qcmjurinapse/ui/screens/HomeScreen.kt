@@ -15,7 +15,7 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import androidx.lifecycle.compose.collectAsStateWithLifecycle.viewModel
+import androidx.lifecycle.viewmodel.compose.viewModel
 import com.theo.qcmjurinapse.data.Semester
 import com.theo.qcmjurinapse.viewmodel.HomeViewModel
 import com.theo.qcmjurinapse.viewmodel.HomeViewModelFactory
@@ -104,6 +104,7 @@ fun HomeScreen(
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 private fun SemestreCard(
     semestre: Semester,

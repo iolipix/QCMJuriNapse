@@ -141,7 +141,7 @@ private fun EnTeteQuiz(
             
             // Barre de progression
             LinearProgressIndicator(
-                progress = { progression },
+                progress = progression,
                 modifier = Modifier
                     .fillMaxWidth()
                     .height(8.dp)

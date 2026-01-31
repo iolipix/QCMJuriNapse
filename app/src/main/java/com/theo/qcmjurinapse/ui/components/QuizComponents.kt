@@ -308,7 +308,7 @@ private fun BarreProgression(etatQuiz: EtatQuiz) {
         }
         Spacer(modifier = Modifier.height(8.dp))
         LinearProgressIndicator(
-            progress = { etatQuiz.progression },
+            progress = etatQuiz.progression,
             modifier = Modifier.fillMaxWidth(),
             color = MaterialTheme.colorScheme.primary,
             trackColor = MaterialTheme.colorScheme.primaryContainer,

@@ -13,7 +13,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.compose.ui.text.style.TextAlign
-import androidx.lifecycle.compose.collectAsStateWithLifecycle.viewModel
+import androidx.lifecycle.viewmodel.compose.viewModel
 import com.theo.qcmjurinapse.ui.components.*
 import com.theo.qcmjurinapse.repository.QuestionRepository
 import com.theo.qcmjurinapse.database.QuizDatabase
@@ -102,7 +102,7 @@ fun QuizScreen(
             messageErreur != null -> {
                 // Écran d'erreur
                 EcranErreur(
-                    message = messageErreur,
+                    message = messageErreur ?: "",
                     onRetry = { viewModel.demarrerQuiz(subjectId, subjectName) },
                     onDismiss = { viewModel.effacerErreur() }
                 )
@@ -121,14 +121,16 @@ fun QuizScreen(
             
             etatQuestion != null -> {
                 // Question actuelle
-                ContenuQuiz(
-                    etatQuiz = etatQuiz,
-                    etatQuestion = etatQuestion,
-                    onSelectionReponse = viewModel::selectionnerReponse,
-                    onValider = viewModel::validerQuestion,
-                    onQuestionSuivante = viewModel::questionSuivante,
-                    peutValider = viewModel.peutValider()
-                )
+                etatQuestion?.let { currentEtatQuestion ->
+                    ContenuQuiz(
+                        etatQuiz = etatQuiz,
+                        etatQuestion = currentEtatQuestion,
+                        onSelectionReponse = viewModel::selectionnerReponse,
+                        onValider = viewModel::validerQuestion,
+                        onQuestionSuivante = viewModel::questionSuivante,
+                        peutValider = viewModel.peutValider()
+                    )
+                }
             }
             
             else -> {
