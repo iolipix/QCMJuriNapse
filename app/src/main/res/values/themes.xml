@@ -1,40 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <!-- Base application theme -->
-    <style name="Base.Theme.QCMJuridiqueNapse" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here -->
-        <item name="colorPrimary">@color/bleu_juridique</item>
-        <item name="colorOnPrimary">@color/white</item>
-        <item name="colorPrimaryContainer">@color/bleu_juridique_clair</item>
-        <item name="colorOnPrimaryContainer">@color/white</item>
-        
-        <item name="colorSecondary">@color/gris_neutre</item>
-        <item name="colorOnSecondary">@color/white</item>
-        <item name="colorSecondaryContainer">@color/gris_neutre_clair</item>
-        <item name="colorOnSecondaryContainer">@color/white</item>
-        
-        <item name="colorError">@color/rouge_erreur</item>
-        <item name="colorOnError">@color/white</item>
-        <item name="colorErrorContainer">@color/rouge_erreur_clair</item>
-        <item name="colorOnErrorContainer">@color/white</item>
-        
-        <item name="colorSurface">@color/surface</item>
-        <item name="colorOnSurface">@color/on_surface</item>
-        
-        <item name="android:statusBarColor">@color/bleu_juridique</item>
-        <item name="android:navigationBarColor">@color/surface</item>
-        <item name="android:windowLightStatusBar">false</item>
-        <item name="android:windowLightNavigationBar">true</item>
+    <style name="Base.Theme.QCMJuridiqueNapse" parent="@android:style/Theme.Material">
+        <!-- Utilisation des couleurs par défaut -->
     </style>
 
     <style name="Theme.QCMJuridiqueNapse" parent="Base.Theme.QCMJuridiqueNapse">
-        <!-- Transparent system bars for edge-to-edge -->
-        <item name="android:windowTranslucentStatus">false</item>
-        <item name="android:windowTranslucentNavigation">false</item>
-        <item name="android:statusBarColor">@android:color/transparent</item>
-        <item name="android:navigationBarColor">@android:color/transparent</item>
-        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:enforceNavigationBarContrast" tools:targetApi="Q">false</item>
-        <item name="android:enforceStatusBarContrast" tools:targetApi="Q">false</item>
+        <!-- Customize your theme here -->
     </style>
 </resources>

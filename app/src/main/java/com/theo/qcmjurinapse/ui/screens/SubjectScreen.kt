@@ -13,7 +13,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import androidx.lifecycle.viewmodel.compose.viewModel
+import androidx.lifecycle.compose.collectAsStateWithLifecycle.viewModel
 import com.theo.qcmjurinapse.data.Subject
 import com.theo.qcmjurinapse.viewmodel.SubjectViewModel
 import com.theo.qcmjurinapse.viewmodel.SubjectViewModelFactory
