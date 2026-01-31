@@ -1,0 +1,61 @@
+{
+  "semester": "Semestre 5",
+  "subject": "Droit international privé (DIP)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Le règlement Bruxelles I bis concerne :",
+      "choices": [
+        "La compétence judiciaire et l'exécution des décisions en matière civile et commerciale",
+        "Le droit applicable aux obligations contractuelles",
+        "Le droit applicable aux obligations non contractuelles", 
+        "La reconnaissance des actes d'état civil"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": 2,
+      "question": "En DIP français, la loi personnelle est déterminée par :",
+      "choices": [
+        "Le domicile de la personne",
+        "La nationalité de la personne",
+        "La résidence habituelle de la personne",
+        "Le lieu de naissance de la personne"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 3,
+      "question": "L'exception d'ordre public international permet :",
+      "choices": [
+        "D'appliquer toujours la loi française",
+        "D'écarter l'application d'une loi étrangère contraire aux principes fondamentaux du for",
+        "De refuser de juger un litige international",
+        "D'appliquer la loi la plus favorable aux parties"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 4,
+      "question": "La reconnaissance des jugements étrangers en France nécessite :",
+      "choices": [
+        "Une procédure d'exequatur systématique",
+        "L'accord du ministère des Affaires étrangères",
+        "Le respect des conditions de régularité internationale", 
+        "La traduction certifiée conforme"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 5,
+      "question": "Le règlement Rome I s'applique aux :",
+      "choices": [
+        "Obligations contractuelles en matière civile et commerciale",
+        "Obligations non contractuelles",
+        "Questions de statut personnel",
+        "Procédures judiciaires"
+      ],
+      "correctAnswers": [0]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "L'article 796-1 du CPC prévoit que les assignations en appel sont délivrées :",
+    "choices": [
+      "A compter du 1er septembre 2019 uniquement par voie électronique",
+      "Par enrôlement au greffe papier exclusivement",
+      "Depuis le 1er septembre 2018 par voie électronique sauf cause étrangère",
+      "Depuis le 1er septembre 2019 par voie électronique sauf cause étrangère"
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "id": 2,
+    "question": "En matière de procédure civile, le délai d'appel est de :",
+    "choices": [
+      "15 jours à compter de la signification du jugement",
+      "1 mois à compter de la signification du jugement",
+      "2 mois à compter de la signification du jugement",
+      "3 mois à compter de la prononcé du jugement"
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "id": 3,
+    "question": "Le principe de l'autorité de la chose jugée implique :",
+    "choices": [
+      "Qu'un jugement définitif ne peut plus être remis en cause",
+      "Que seules les parties peuvent contester un jugement",
+      "Qu'un jugement est exécutoire de plein droit",
+      "Qu'un jugement peut toujours être révisé"
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "id": 4,
+    "question": "Les voies de recours extraordinaires comprennent :",
+    "choices": [
+      "L'appel et l'opposition",
+      "Le pourvoi en cassation uniquement",
+      "La tierce opposition, la révision et le recours en révision",
+      "L'appel, la cassation et l'opposition"
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "id": 5,
+    "question": "En droit des contrats, l'article 1128 du Code civil énonce que sont nécessaires à la validité d'un contrat :",
+    "choices": [
+      "Le consentement, la capacité et un contenu licite et certain",
+      "Le consentement, l'objet, la cause et la capacité",
+      "Le consentement des parties uniquement",
+      "Le consentement, l'objet et la forme solennelle"
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "id": 6,
+    "question": "La prescription acquisitive trentenaire permet d'acquérir :",
+    "choices": [
+      "Tous les biens meubles et immeubles",
+      "Uniquement les biens immeubles",
+      "Les biens immeubles même entre présents et sans titre ni bonne foi",
+      "Les créances uniquement"
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "id": 7,
+    "question": "En matière de responsabilité civile, l'article 1240 du Code civil (ancien 1382) dispose que :",
+    "choices": [
+      "Tout fait quelconque de l'homme cause un dommage à autrui oblige celui par la faute duquel il est arrivé à le réparer",
+      "La responsabilité n'existe qu'en cas de faute intentionnelle",
+      "Seule la faute lourde engage la responsabilité",
+      "La responsabilité est présumée en toutes circonstances"
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "id": 8,
+    "question": "Le régime matrimonial légal en France est :",
+    "choices": [
+      "La séparation de biens",
+      "La communauté réduite aux acquêts",
+      "La communauté universelle",
+      "Le régime de participation aux acquêts"
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "id": 9,
+    "question": "Une question peut avoir plusieurs bonnes réponses. Lesquelles parmi ces affirmations sont correctes concernant la filiation ?",
+    "choices": [
+      "La filiation peut être établie par la possession d'état",
+      "La reconnaissance d'un enfant est toujours irrévocable",
+      "L'action en recherche de paternité se prescrit par 10 ans",
+      "La filiation adoptive produit les mêmes effets que la filiation par le sang"
+    ],
+    "correctAnswers": [0, 2, 3]
+  },
+  {
+    "id": 10,
+    "question": "En droit administratif, le principe de légalité signifie que :",
+    "choices": [
+      "L'administration peut faire tout ce qui n'est pas interdit",
+      "L'administration ne peut faire que ce qui lui est permis par la loi",
+      "L'administration est soumise uniquement aux règlements",
+      "L'administration peut déroger à la loi dans l'intérêt général"
+    ],
+    "correctAnswers": [1]
+  }
+]

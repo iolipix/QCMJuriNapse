@@ -1,0 +1,281 @@
+{
+  "semester": "Semestre 5", 
+  "subject": "Droit judiciaire privé",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quel tribunal est compétent pour statuer sur un litige relatif à un bail commercial d'un montant de 15 000 euros ?",
+      "choices": [
+        "Le tribunal de proximité",
+        "Le tribunal judiciaire", 
+        "Le tribunal de commerce",
+        "Le tribunal administratif"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 2,
+      "question": "En matière de compétence territoriale, le demandeur peut saisir :",
+      "choices": [
+        "Uniquement le tribunal du domicile du défendeur",
+        "Le tribunal du domicile du défendeur ou du lieu d'exécution de l'obligation",
+        "N'importe quel tribunal en France",
+        "Uniquement le tribunal de son propre domicile"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 3,
+      "question": "Le délai pour former opposition à un jugement rendu par défaut est de :",
+      "choices": [
+        "15 jours",
+        "1 mois",
+        "2 mois",
+        "6 mois"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 4,
+      "question": "Quelle est la particularité de la procédure en référé ?",
+      "choices": [
+        "Elle permet de trancher définitivement le fond du litige",
+        "Elle est réservée aux cas d'urgence ou à l'absence de contestation sérieuse",
+        "Elle ne peut être utilisée qu'entre commerçants", 
+        "Elle exclut toute représentation par avocat"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 5,
+      "question": "L'autorité de chose jugée s'attache :",
+      "choices": [
+        "À tous les jugements dès leur prononcé",
+        "Uniquement aux jugements définitifs passés en force de chose jugée",
+        "Aux jugements contradictoires seulement",
+        "Aux décisions de toutes les juridictions"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 6,
+      "question": "En procédure civile, qui peut délivrer une citation à comparaître ?",
+      "choices": [
+        "L'avocat du demandeur",
+        "Le greffier du tribunal",
+        "L'huissier de justice",
+        "Le demandeur lui-même"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 7,
+      "question": "Le ministère d'avocat est obligatoire devant :",
+      "choices": [
+        "Toutes les juridictions civiles",
+        "Le tribunal judiciaire et la cour d'appel", 
+        "Uniquement la Cour de cassation",
+        "Le tribunal de commerce"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 8,
+      "question": "L'exequatur est nécessaire pour :",
+      "choices": [
+        "Exécuter une sentence arbitrale",
+        "Faire appel d'un jugement",
+        "Signifier une citation",
+        "Déposer une requête"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": 9,
+      "question": "Le pourvoi en cassation doit être formé dans un délai de :",
+      "choices": [
+        "1 mois",
+        "2 mois",
+        "3 mois", 
+        "6 mois"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 10,
+      "question": "En matière de saisie immobilière, quel est le délai minimum entre la signification du commandement et l'assignation ?",
+      "choices": [
+        "15 jours",
+        "1 mois",
+        "8 jours",
+        "3 mois"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 11,
+      "question": "La procédure de conciliation préalable est obligatoire :",
+      "choices": [
+        "Dans tous les litiges civils",
+        "Devant le tribunal de proximité",
+        "En matière de troubles du voisinage",
+        "Uniquement en matière familiale"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 12,
+      "question": "Le juge des référés peut-il statuer au fond du litige ?",
+      "choices": [
+        "Oui, toujours",
+        "Non, jamais", 
+        "Oui, en cas d'absence de contestation sérieuse",
+        "Oui, mais seulement en matière commerciale"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 13,
+      "question": "Quelle juridiction est compétente pour les litiges entre époux concernant l'exercice de l'autorité parentale ?",
+      "choices": [
+        "Le tribunal de grande instance",
+        "Le juge aux affaires familiales",
+        "Le tribunal de proximité",
+        "Le juge de paix"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 14,
+      "question": "Une saisie-attribution peut porter sur :",
+      "choices": [
+        "Tous les biens du débiteur",
+        "Uniquement les créances du débiteur",
+        "Les biens immobiliers du débiteur",
+        "Les revenus professionnels uniquement"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 15,
+      "question": "Le principe du contradictoire impose :",
+      "choices": [
+        "Que les audiences soient publiques",
+        "Que chaque partie puisse connaître et discuter les moyens de son adversaire",
+        "La présence obligatoire d'un avocat", 
+        "L'unanimité des juges"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 16,
+      "question": "En matière de responsabilité civile, la charge de la preuve incombe :",
+      "choices": [
+        "Toujours au demandeur",
+        "Toujours au défendeur",
+        "À celui qui allègue le fait",
+        "Au juge"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 17,
+      "question": "La tierce opposition peut être formée :",
+      "choices": [
+        "Uniquement par les parties au procès",
+        "Par toute personne lésée par un jugement auquel elle n'a pas été partie",
+        "Seulement dans les 30 jours du jugement",
+        "Uniquement devant la cour d'appel"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 18,
+      "question": "L'injonction de payer peut être utilisée pour :",
+      "choices": [
+        "Toute créance, quel que soit son montant",
+        "Uniquement les créances commerciales",
+        "Les créances certaines, liquides et exigibles", 
+        "Seulement les créances inférieures à 5 000 euros"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 19,
+      "question": "Le dessaisissement du juge intervient :",
+      "choices": [
+        "Dès le prononcé du jugement",
+        "Après l'expiration des délais de recours",
+        "À la notification du jugement",
+        "À la minute où le jugement est signé"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 20,
+      "question": "La péremption d'instance intervient après :",
+      "choices": [
+        "6 mois d'inactivité",
+        "1 an d'inactivité",
+        "2 ans d'inactivité",
+        "3 ans d'inactivité"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 21,
+      "question": "L'action en responsabilité civile se prescrit par :",
+      "choices": [
+        "2 ans à compter de la connaissance du dommage",
+        "5 ans de droit commun",
+        "10 ans en matière immobilière",
+        "30 ans pour les dommages corporels"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 22,
+      "question": "En matière de référé, l'ordonnance rendue a un caractère :",
+      "choices": [
+        "Définitif",
+        "Provisoire", 
+        "Exécutoire de plein droit",
+        "Susceptible d'opposition uniquement"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 23,
+      "question": "La clause compromissoire est :",
+      "choices": [
+        "Valable dans tous les contrats",
+        "Interdite entre non-commerçants",
+        "Valable uniquement dans les contrats conclus dans l'exercice d'une activité professionnelle",
+        "Valable uniquement en matière immobilière"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 24,
+      "question": "L'effet suspensif de l'appel signifie que :",
+      "choices": [
+        "L'exécution du jugement est automatiquement suspendue",
+        "Le jugement ne peut pas être exécuté pendant le délai d'appel",
+        "L'appel suspend l'exécution sauf disposition contraire",
+        "Seul le premier président peut ordonner la suspension"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 25,
+      "question": "Le tribunal compétent pour une action en revendication immobilière est :",
+      "choices": [
+        "Le tribunal du domicile du défendeur",
+        "Le tribunal du lieu de situation de l'immeuble", 
+        "N'importe quel tribunal au choix du demandeur",
+        "Le tribunal de commerce si l'immeuble est commercial"
+      ],
+      "correctAnswers": [1]
+    }
+  ]
+}

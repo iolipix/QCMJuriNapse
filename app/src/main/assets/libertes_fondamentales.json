@@ -1,0 +1,61 @@
+{
+  "semester": "Semestre 5",
+  "subject": "Libertés fondamentales",
+  "questions": [
+    {
+      "id": 1,
+      "question": "La liberté d'aller et venir est protégée par :",
+      "choices": [
+        "L'article 2 de la DDHC de 1789",
+        "L'article 4 de la DDHC de 1789", 
+        "L'article 66 de la Constitution de 1958",
+        "L'article 8 de la CEDH"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": 2,
+      "question": "Le contrôle d'identité peut être effectué :",
+      "choices": [
+        "De manière systématique et générale",
+        "Uniquement sur réquisition du procureur",
+        "Dans le cadre de contrôles préventifs ciblés et justifiés",
+        "Seulement en cas de flagrant délit"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 3,
+      "question": "La liberté de religion comprend :",
+      "choices": [
+        "Uniquement la liberté de conscience",
+        "La liberté de culte, de conscience et de prosélytisme",
+        "La liberté de pratiquer sa religion en privé seulement", 
+        "L'obligation de respecter la religion d'autrui"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 4,
+      "question": "Le principe de laïcité impose :",
+      "choices": [
+        "L'interdiction de toute manifestation religieuse",
+        "La neutralité de l'État et la séparation des Églises et de l'État",
+        "L'obligation pour tous les citoyens d'être athées",
+        "La promotion d'une religion d'État"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 5,
+      "question": "La liberté d'expression peut être limitée par :",
+      "choices": [
+        "La protection de l'ordre public et des droits d'autrui",
+        "Les préférences politiques du gouvernement",
+        "L'opinion de la majorité",
+        "Aucune limitation n'est possible"
+      ],
+      "correctAnswers": [0]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "semester": "Semestre 5",
+  "subject": "Contentieux administratif", 
+  "questions": [
+    {
+      "id": 1,
+      "question": "Le recours pour excès de pouvoir vise à :",
+      "choices": [
+        "Obtenir des dommages-intérêts",
+        "Faire annuler un acte administratif illégal",
+        "Contraindre l'administration à agir",
+        "Modifier un acte administratif"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 2,
+      "question": "Le délai de recours contentieux administratif est en principe de :",
+      "choices": [
+        "1 mois à compter de la notification ou publication",
+        "2 mois à compter de la notification ou publication",
+        "3 mois à compter de la notification ou publication",
+        "6 mois à compter de la notification ou publication"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 3,
+      "question": "Le recours gracieux :",
+      "choices": [
+        "Interrompt le délai de recours contentieux",
+        "N'a aucun effet sur le délai de recours contentieux",
+        "Suspend le délai de recours contentieux",
+        "Annule définitivement la possibilité de recours contentieux"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": 4,
+      "question": "La juridiction administrative compétente en premier ressort pour les litiges locaux est :",
+      "choices": [
+        "Le Conseil d'État",
+        "La cour administrative d'appel", 
+        "Le tribunal administratif",
+        "Le tribunal judiciaire"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 5,
+      "question": "L'urgence en référé administratif nécessite :",
+      "choices": [
+        "Une atteinte grave et manifestement illégale à une liberté fondamentale",
+        "Un préjudice immédiat et irréparable",
+        "Une situation d'urgence caractérisée", 
+        "Toutes les réponses précédentes selon le type de référé"
+      ],
+      "correctAnswers": [3]
+    }
+  ]
+}

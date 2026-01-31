@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs principales -->
+    <color name="bleu_juridique">#1565C0</color>
+    <color name="bleu_juridique_clair">#5E92F3</color>
+    <color name="bleu_juridique_fonce">#003C8F</color>
+    
+    <!-- Couleurs de validation -->
+    <color name="vert_validation">#2E7D32</color>
+    <color name="vert_validation_clair">#66BB6A</color>
+    <color name="vert_validation_fonce">#1B5E20</color>
+    
+    <!-- Couleurs d'erreur -->
+    <color name="rouge_erreur">#D32F2F</color>
+    <color name="rouge_erreur_clair">#EF5350</color>
+    <color name="rouge_erreur_fonce">#9A0007</color>
+    
+    <!-- Couleurs neutres -->
+    <color name="gris_neutre">#455A64</color>
+    <color name="gris_neutre_clair">#718792</color>
+    <color name="gris_neutre_fonce">#1C313A</color>
+    
+    <!-- Couleurs de base -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="surface">#FAFAFA</color>
+    <color name="on_surface">#000000</color>
+    
+    <!-- Couleurs mode sombre -->
+    <color name="bleu_juridique_sombre">#90CAF9</color>
+    <color name="vert_validation_sombre">#81C784</color>
+    <color name="rouge_erreur_sombre">#E57373</color>
+    <color name="surface_sombre">#121212</color>
+    <color name="on_surface_sombre">#FFFFFF</color>
+</resources>

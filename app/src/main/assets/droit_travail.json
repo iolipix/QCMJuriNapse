@@ -1,0 +1,61 @@
+{
+  "semester": "Semestre 5",
+  "subject": "Droit du travail",
+  "questions": [
+    {
+      "id": 1,
+      "question": "La durée légale du travail en France est fixée à :",
+      "choices": [
+        "35 heures par semaine",
+        "39 heures par semaine", 
+        "40 heures par semaine",
+        "37 heures par semaine"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": 2,
+      "question": "Le contrat de travail à durée indéterminée (CDI) :",
+      "choices": [
+        "Doit obligatoirement être écrit",
+        "Peut être conclu oralement sauf dispositions spéciales",
+        "N'existe que sous forme écrite",
+        "Doit être enregistré en préfecture"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 3,
+      "question": "Les heures supplémentaires donnent droit à :",
+      "choices": [
+        "Une majoration de 25% dès la première heure",
+        "Une majoration de 25% pour les 8 premières heures, puis 50%",
+        "Une majoration de 50% dès la première heure",
+        "Uniquement un repos compensateur"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": 4,
+      "question": "La période d'essai d'un CDI pour un employé :",
+      "choices": [
+        "Ne peut excéder 2 mois",
+        "Ne peut excéder 3 mois",
+        "Ne peut excéder 4 mois",
+        "N'est pas limitée dans le temps"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": 5,
+      "question": "En cas de licenciement pour motif économique, l'employeur doit respecter :",
+      "choices": [
+        "Uniquement le préavis légal",
+        "L'ordre des licenciements selon les critères légaux",
+        "L'ancienneté uniquement",
+        "L'âge des salariés uniquement"
+      ],
+      "correctAnswers": [1]
+    }
+  ]
+}

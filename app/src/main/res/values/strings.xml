@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QCM Juridique Napse</string>
+    
+    <!-- Écrans -->
+    <string name="chargement">Chargement des questions...</string>
+    <string name="erreur_chargement">Erreur lors du chargement des questions</string>
+    <string name="aucune_question">Aucune question trouvée</string>
+    
+    <!-- Quiz -->
+    <string name="question_numero">Question %1$d sur %2$d</string>
+    <string name="score">Score : %1$d/%2$d</string>
+    <string name="progression">%1$d%% complété</string>
+    <string name="valider_reponse">Valider la réponse</string>
+    <string name="question_suivante">Question suivante</string>
+    <string name="voir_resultats">Voir les résultats</string>
+    
+    <!-- Résultats -->
+    <string name="quiz_termine">Quiz terminé !</string>
+    <string name="votre_score">Votre score</string>
+    <string name="recommencer">Recommencer</string>
+    <string name="melanger">Mélanger</string>
+    <string name="melanger_et_recommencer">Mélanger et recommencer</string>
+    
+    <!-- Actions -->
+    <string name="reessayer">Réessayer</string>
+    <string name="fermer">Fermer</string>
+    
+    <!-- Messages -->
+    <string name="selectionner_reponse">Sélectionnez au moins une réponse</string>
+    <string name="reponse_correcte">Bonne réponse !</string>
+    <string name="reponse_incorrecte">Réponse incorrecte</string>
+</resources>

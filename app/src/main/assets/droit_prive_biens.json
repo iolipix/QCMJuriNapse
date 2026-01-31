@@ -1,0 +1,61 @@
+{
+  "semester": "Semestre 5", 
+  "subject": "Droit privé des biens",
+  "questions": [
+    {
+      "id": 1,
+      "question": "La propriété est définie par l'article 544 du Code civil comme :",
+      "choices": [
+        "Le droit de jouir et disposer des choses de la manière la plus absolue",
+        "Le droit d'user, de jouir et de disposer d'une chose",
+        "Un droit réel principal et perpétuel",
+        "Toutes les réponses précédentes"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": 2,
+      "question": "La prescription acquisitive trentenaire permet d'acquérir :",
+      "choices": [
+        "Tous les biens meubles et immeubles",
+        "Uniquement les biens immeubles", 
+        "Les biens immeubles même entre présents et sans titre ni bonne foi",
+        "Les créances uniquement"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": 3,
+      "question": "L'usufruit confère à l'usufruitier :",
+      "choices": [
+        "Le droit d'user et de jouir de la chose sans l'abîmer",
+        "La propriété temporaire de la chose",
+        "Uniquement le droit d'usage",
+        "Le droit de disposer de la chose"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": 4,
+      "question": "La servitude est :",
+      "choices": [
+        "Un droit réel accessoire",
+        "Une charge imposée sur un immeuble au profit d'un autre immeuble", 
+        "Indivisible par nature",
+        "Toutes les réponses précédentes"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": 5,
+      "question": "La copropriété horizontale concerne :",
+      "choices": [
+        "Les immeubles en hauteur uniquement",
+        "Les lotissements et ensembles immobiliers",
+        "Les appartements dans un immeuble",
+        "Les garages uniquement"
+      ],
+      "correctAnswers": [1]
+    }
+  ]
+}
